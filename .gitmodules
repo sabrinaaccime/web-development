@@ -4,3 +4,6 @@
 [submodule "react/nextjs-dashboard"]
 	path = react/nextjs-dashboard
 	url = https://github.com/sabrinaaccime/nextjs-dashboard.git
+[submodule "react/tailwindcss/react-portfolio"]
+	path = react/tailwindcss/react-portfolio
+	url = https://github.com/sabrinaaccime/react-portfolio.git
