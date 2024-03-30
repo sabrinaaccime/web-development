@@ -1,9 +1,6 @@
 [submodule "angular/tailwindcss/angular-portfolio"]
 	path = angular/tailwindcss/angular-portfolio
 	url = https://github.com/sabrinaaccime/angular-portfolio.git
-[submodule "angular/tailwindcss/front-end-portfolio"]
-	path = angular/tailwindcss/front-end-portfolio
-	url = https://github.com/sabrinaaccime/front-end-portfolio.git
 [submodule "react/nextjs-dashboard"]
 	path = react/nextjs-dashboard
 	url = https://github.com/sabrinaaccime/nextjs-dashboard.git
